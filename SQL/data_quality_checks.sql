@@ -1,0 +1,3 @@
+-- E-Commerce Customer & Sales Analytics
+-- SQL data quality checks
+-- Project: Brazilian E-Commerce Dataset by Olist
